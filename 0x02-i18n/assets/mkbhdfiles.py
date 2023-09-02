@@ -1,3 +1,0 @@
-/userbin/stroke
-python3
-
